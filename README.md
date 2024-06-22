@@ -31,9 +31,7 @@ Welcome to our Automated Trading Bot, a cutting-edge tool that merges the power 
 2. Configure your trading parameters.
 3. Launch the script in your Python environment.
 
-## 📚 Documentation
 
-Explore detailed documentation for a deeper dive into the bot's capabilities and configurations.
 
 ## 📈 Performance Metrics
 
@@ -41,7 +39,7 @@ Monitor the bot's performance metrics to gauge effectiveness and refine strategi
 
 ## 👥 Contributing
 
-I welcome contributions to enhance the bot's capabilities and support. Please review our contributing guidelines.
+I welcome contributions to enhance the bot's capabilities and support. Please reach out to me on arunpuram@outlook.com
 
 ## 📫 Contact
 
